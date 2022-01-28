@@ -1,6 +1,6 @@
 ### Hi Everyone! 👋
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ecsantana76/ecsantana76/blob/master/devcard.svg" width="400" alt="Everton Santana's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ecsantana76/ecsantana76/blob/main/devcard.svg" width="400" alt="Everton Santana's Dev Card"/></a>
 
 - 🔭 I’m currently working on my Career Transition to Data Science
 - 🌱 I’m currently learning SQL, NLP and Front End
